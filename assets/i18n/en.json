@@ -88,6 +88,7 @@
   "CHECK_YOUR_NAME": "Please Check Your Name",
   "Contact Number*": "Contact number*",
   "Your Phone Number": "Your phone number",
+  "Please Check Your Title": "Please check your title",
   "Please Check Your Phone Number": "Please check your phone number",
   "Email*": "Email*",
   "Email_placeholder": "ex: username@xyz",
@@ -354,5 +355,8 @@
   "news and": "News and",
   "annoucments": "Annoucments",
   "choose product": "Choose Product",
-  "Organizations need tailored applications to address unique challenges effectively, using standardized approaches.": "Organizations need tailored applications to address unique challenges effectively, using standardized approaches."
+  "Organizations need tailored applications to address unique challenges effectively, using standardized approaches.": "Organizations need tailored applications to address unique challenges effectively, using standardized approaches.",
+  "Job Evaluation Tool – JET": "Job Evaluation Tool – JET",
+  "Employee Engagement Survey – EES": "Employee Engagement Survey – EES",
+  "both": "Both"
 }
