@@ -358,5 +358,10 @@
   "Organizations need tailored applications to address unique challenges effectively, using standardized approaches.": "Organizations need tailored applications to address unique challenges effectively, using standardized approaches.",
   "Job Evaluation Tool – JET": "Job Evaluation Tool – JET",
   "Employee Engagement Survey – EES": "Employee Engagement Survey – EES",
-  "both": "Both"
+  "both": "Both",
+  "Please make sure of company address": "Please make sure of company address",
+  "Please make sure of company website": "Please make sure of company website",
+  "Please make sure of title": "Please make sure of title",
+  "Please make sure of message": "Please make sure of message"
+
 }

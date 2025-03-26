@@ -363,5 +363,9 @@
   "Organizations need tailored applications to address unique challenges effectively, using standardized approaches.": "تحتاج المنظمات إلى تطبيقات مخصصة لمعالجة التحديات الفريدة بشكل فعال، باستخدام نهج موحد.",
   "Job Evaluation Tool – JET": "أداة تقييم الوظائف - JET",
   "Employee Engagement Survey – EES": "EES - استطلاع مشاركة الموظفين",
-  "both": "كلاهما"
+  "both": "كلاهما",
+  "Please make sure of company address": "يرجى التأكد من عنوان الشركة",
+  "Please make sure of company website": "يرجى التأكد من موقع الويب الخاص بالشركة",
+  "Please make sure of title": "يرجى التأكد من المسمى الوظيفي",
+  "Please make sure of message": "يرجى التأكد من الرسالة"
 }
