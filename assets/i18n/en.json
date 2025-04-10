@@ -1,5 +1,8 @@
 {
   "YOUR_number_of_departments": "Your number of departments",
+  "CHECK_number_of_departments": "Please check your number of departments",
+  "ENTER_address": "Enter your address",
+  "YOUR_Address": "Your address",
   "home": "Home",
   "about": "About",
   "products": "Products",
@@ -364,5 +367,4 @@
   "Please make sure of company website": "Please make sure of company website",
   "Please make sure of title": "Please make sure of title",
   "Please make sure of message": "Please make sure of message"
-
 }
