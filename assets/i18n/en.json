@@ -1,5 +1,7 @@
 {
   "YOUR_number_of_departments": "Your number of departments",
+  "YOUR_number_of_employees": "Your number of employees",
+  "CHECK_number_of_employees": "Please check your number of employees",
   "CHECK_number_of_departments": "Please check your number of departments",
   "ENTER_address": "Enter your address",
   "YOUR_Address": "Your address",
@@ -134,7 +136,7 @@
   "Founder and CEO": "Founder and CEO",
   "Tarek Roushdy": "Tarek Roushdy",
   "tarek_position": "Advisory Board Member Founder and Managing Partner - UI Investments",
-  "Hisham ElBadawy": "Hisham ElBadawy",
+  "Hisham ElBadawy": "Hisham El-Badawy",
   "Board Member Group Chairman - GICG": "Board Member Group Chairman - GICG",
   "course_desc": "This course is delivered by JOBMASTER. In the ever evolving landscape of HR practices, understanding job design and evaluation concepts is paramount",
   "This Course is Delivered by JOBMASTER.": "This Course is Delivered by JOBMASTER.",
